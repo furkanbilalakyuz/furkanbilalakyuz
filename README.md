@@ -4,7 +4,6 @@ Electronics R&D Engineer working on **VTOL UAV platforms**, with a focus on embe
 
 ### 🔧 What I do
 - 🚁 R&D Engineer (Electronics) at **BİYOTEKSAN**, developing VTOL UAV systems
-- 🌐 R&D Coordinator at **TURKPA**
 - 🎓 BSc in Electrical-Electronics Engineering, Istanbul Aydın University
 
 ### 🌱 Currently exploring
